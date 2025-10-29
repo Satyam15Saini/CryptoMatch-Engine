@@ -32,3 +32,12 @@ High-performance cryptocurrency matching engine with REG NMS-inspired order matc
 - WebSocket streaming for live updates
 - Price-time priority matching algorithm
 - REG NMS-compliant order protection
+
+## 💡 What Makes my Project Special?
+-  REG NMS (Regulation National Market System)-Inspired
+-  Based on U.S. stock market regulations
+-  Ensures best execution for traders
+-  Prevents unfair trading practices
+
+
+
